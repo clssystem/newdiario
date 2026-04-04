@@ -1,0 +1,107 @@
+<!-- Banner de Cookies Adaptativo para Chispi -->
+<div id="cookie-banner">
+  <div class="cookie-content">
+        <p>Utilizamos cookies para analizar el tráfico y mejorar tu experiencia.
+      Puedes leer más en nuestra <a href="/privacidad" class="policy-link">Política de Privacidad</a>.
+    </p>
+    <div class="cookie-btns">
+      <button class="btn-accept" onclick="acceptCookies()">Aceptar</button>
+      <button class="btn-deny" onclick="denyCookies()">Denegar</button>
+    </div>
+  </div>
+</div>
+
+<style>
+  #cookie-banner {
+    position: fixed;
+    bottom: 2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
+    max-width: 500px;
+    background-color: var(--background, #fff); 
+    color: var(--text, #222);
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.15);
+    border: 1px solid var(--border, #eee);
+    z-index: 9999;
+    display: none;
+    font-family: var(--font-family);
+  }
+
+  [data-theme="dark"] #cookie-banner {
+    background-color: var(--background, #1a1a1a);
+    border-color: #333;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.5);
+  }
+
+  .cookie-content p {
+    font-size: 0.9rem;
+    margin: 0 0 1rem 0;
+    line-height: 1.4;
+  }
+
+  .cookie-btns {
+    display: flex;
+    gap: 10px;
+    justify-content: flex-end;
+  }
+
+  .btn-accept {
+    background-color: #2ecc71; 
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 0.85rem;
+  }
+
+  .btn-deny {
+    background-color: transparent;
+    color: var(--text);
+    border: 1px solid var(--border);
+    padding: 8px 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    opacity: 0.8;
+  }
+
+  .btn-accept:hover { filter: brightness(1.1); }
+  .btn-deny:hover { background: rgba(128,128,128,0.1); }
+</style>
+
+<script>
+  
+  if (!localStorage.getItem('cookie-consent')) {
+    document.getElementById('cookie-banner').style.display = 'block';
+  }
+
+  
+  function showCookieBanner(e) {
+    if (e) e.preventDefault(); 
+    document.getElementById('cookie-banner').style.display = 'block';
+  }
+  function updateConsent(status) {
+    const consentValue = status === 'granted' ? 'granted' : 'denied';
+    
+    
+
+    gtag('consent', 'update', { 
+      'ad_storage': 'denied',
+      'ad_user_data': 'denied',
+      'ad_personalization': 'denied',
+      'analytics_storage': consentValue
+    });
+
+    localStorage.setItem('cookie-consent', status);
+    document.getElementById('cookie-banner').style.display = 'none';
+    window.location.reload(); 
+  }
+
+  function acceptCookies() { updateConsent('granted'); }
+  function denyCookies() { updateConsent('denied'); }
+</script>

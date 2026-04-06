@@ -86,7 +86,7 @@ Si te pones a experimentar con electricidad, siempre necesitas un generador de e
 Pues bien, esos son, precisamente, los componentes básicos del sistema DBS:
 
 <div align="center">
-<img class="img-fluid"  src="\assets\images\partes_dbs.jpg" alt="Componentes de DBS" />
+<img class="img-fluid"  src="/assets/images/partes_dbs.jpg" alt="Componentes de DBS" />
 </div>
 
 * El estimulador neuronal, un generador de pulsos eléctricos (alimentado por una batería interna, que lleva incluida), colocado debajo de la piel (generalmente en la zona pectoral), y que descansa plácidamente en una especie de bolsillo artificial que es fabricado por un cirujano durante la última fase de la operación de implantación.
@@ -234,10 +234,10 @@ Además, para entonces, tus heridas externas ya estarán mejor, y seguramente ya
 El estimulador funciona generando una señal eléctrica muy parecida a cuando enciendes y apagas el interruptor de la luz, y haces que una bombilla luzca.
 
 <div align="center">
-<img class="img-fluid"  src="\assets\images\interruptorOFF.jpg" alt="Interruptor OFF" />
+<img class="img-fluid"  src="/assets/images/interruptorOFF.jpg" alt="Interruptor OFF" />
 </div>
 <div align="center">
-<img class="img-fluid"  src="\assets\images\interruptorON.jpg" alt="Interruptor ON" />
+<img class="img-fluid"  src="/assets/images/interruptorON.jpg" alt="Interruptor ON" />
 </div>
 
 El neurólogo puede modificar ciertas variables, como son:

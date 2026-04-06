@@ -3,6 +3,7 @@
 # Import the theme
 theme: jekyll-theme-chirpy
 
+
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
@@ -14,15 +15,20 @@ timezone: Europe/Madrid
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Relatos por Antonio Liberal # the main title
+title:              Diario de un parkinsoniano
+email:              diariodeunparkinsoniano@outlook.es
+description:        Blog personal de Antonio Liberal Irigoyen, una persona que convive con el Parkinson, en el que relata sus vivencias y puntos de vista sobre diversos temas de manera muy subjetiva, humana y personal
+author:             diariodeunparkinsoniano
+date:               2016-11-27
 
-tagline: Un blog dedicado a la escritura de relatos breves.
 
-description: Este blog está dedicado a la escritura por afición y es totalmente gratuito. # the description of your site, it will be displayed in search results and social media cards.
+tagline: 
+
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://misrelatos.cls-system.es"
+baseurl:            ""
+url:                "https://diariodeunparkinsoniano.cls-system.es"
 
 twitter:
   username: diariodeunparki # change to your Twitter username
@@ -55,7 +61,7 @@ webmaster_verifications:
 # Web Analytics Settings
 google_analytics:
     idGA: G-NP2LK2K9BP # fill in your Google Analytics ID
-    idGTM: GTM-MBDGS63R # fill in your Google Tag Manager ID
+    idGTM: GTM-TJM2K54V # fill in your Google Tag Manager ID
     
 analytics:
   google:
@@ -98,7 +104,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/images/relatos.png
+avatar: /assets/images/avatar.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -198,12 +204,12 @@ sass:
 
 compress_html:
   clippings: all
-  comments: all
+  comments: false
   endings: all
   profile: false
   blanklines: false
   ignore:
-    envs: [development]
+    envs: [developmentX]
 
 exclude:
   - "*.gem"

@@ -2,7 +2,7 @@
 layout: page
 title: Privacidad
 icon: fas fa-cookie-bite
-order: 8
+order: 80
 ---
 Este sitio web utiliza las cookies de Google Analytics 4 para obtener información ANÓNIMA con fines estadísticos y para mejorar tu experiencia en la navegación. 
 

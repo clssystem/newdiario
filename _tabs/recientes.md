@@ -1,7 +1,7 @@
 ---
 title: Actualizado recientemente
 icon: fas fa-history
-order: 7
+order: 70
 ---
 <!-- Sección de Actualizado Recientemente -->
 <div class="mt-4">

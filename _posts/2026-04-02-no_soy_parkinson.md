@@ -7,7 +7,7 @@ comments: true
 tags: [Relatos XIV] 
 keywords: [Dia mundial parkinson 2026, 11 de abril]
 imagex: '/assets/images/2025/09/vuelaalto.webp'
-excerpt: Carta al director para el día mundial del párkinson, 11 de abril del 2026
+description: Carta al director para el día mundial del párkinson, 11 de abril del 2026
 ---
 Este es el lema del año 2026 para conmemorar el día mundial del párkinson, que se celebrará el domingo once de abril. Por mi parte –un parkinsoniano al que le queda muy poco para cumplir los dos lustros conviviendo con la enfermedad, desde que celebré mi cuarenta y cuatro cumpleaños–, creo que está *muy bien tirada*, aunque yo la habría completado diciendo “No soy solo párkinson”.
 

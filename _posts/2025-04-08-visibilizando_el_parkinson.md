@@ -7,7 +7,7 @@ comments: true
 tags: [Relatos XIII] 
 keywords: [Visibilidad]
 image: '/assets/images/2025/04/diamundial.jpg'
-excerpt: Visibilizando la Enfermedad de Parkinson en su día mundial, 11 de abril
+description: Visibilizando la Enfermedad de Parkinson en su día mundial, 11 de abril
 ---
 Como cada año desde 1997, el día mundial del Parkinson es el 11 de abril.
 

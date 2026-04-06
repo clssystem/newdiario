@@ -7,7 +7,7 @@ comments: true
 categories: [Sin categoría]
 tags: 'Relatos-I'
 keywords: [libertad,amistad,amigos,juventud]
-excerpt: Este post habla de la amistad para superar la Enfermedad de Parkinson
+description: Este post habla de la amistad para superar la Enfermedad de Parkinson
 image: '/assets/images/2017/05/img_20170417_084220_5351015.jpg'
 ---
 <p style="text-align:justify;">No sabía muy bien como titular este post. Ni tampoco si debía escribirlo.</p>

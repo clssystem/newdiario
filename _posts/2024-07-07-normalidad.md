@@ -7,7 +7,7 @@ comments: true
 tags: [Relatos XIII] 
 keywords: [Normalidad]
 image: '/assets/images/2024/07/normalidad.jpg'
-excerpt: Recuperando la normalidad de un enfermo de párkinson después de pasarlo mal
+description: Recuperando la normalidad de un enfermo de párkinson después de pasarlo mal
 ---
 Querido diario:
 

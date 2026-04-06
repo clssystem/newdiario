@@ -7,7 +7,7 @@ comments: true
 tags: [Relatos XIII] 
 keywords: [Edadismo,Inteligencia Emocional]
 image: '/assets/images/2024/05/inteligencia_emocional.jpg'
-excerpt: Sobre como se trata a los mayores en el transporte público
+description: Sobre como se trata a los mayores en el transporte público
 ---
 Esta entrada no tiene que ver con la tan cacareada IA (Inteligencia Artificial). Habla de la Inteligencia Emocional, y de un "palabro" que se ha puesto también de moda, y que, a mí particularmente, no me gusta lo más mínimo: el "edadismo", la discriminación hacia las personas "mayores".
 

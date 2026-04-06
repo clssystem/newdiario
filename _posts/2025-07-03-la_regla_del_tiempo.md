@@ -7,7 +7,7 @@ comments: true
 tags: [Relatos XIV] 
 keywords: [Cumpleaños, regla vital, paso del tiempo]
 image: '/assets/images/2025/07/53cumple.jpeg'
-excerpt: Reflexiones en mi 53 cumpleaños
+description: Reflexiones en mi 53 cumpleaños
 ---
 Hace apenas unos días, como cada 1 de julio, fue mi cumpleaños: Ni más ni menos que cincuenta y tres primaveras, que se me han pasado en un plis-plas.
 

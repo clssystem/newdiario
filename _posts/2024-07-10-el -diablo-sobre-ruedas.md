@@ -7,7 +7,7 @@ comments: true
 tags: [Relatos XIII] 
 keywords: [Duel, Diablo sobre ruedas, Steven Spielberg, Isaac Asimov, Ciencia Ficción, Películas clásicas,NA-121-A]
 image: '/assets/images/2024/07/duel.jpg'
-excerpt: Pasando pánico en la carretera
+description: Pasando pánico en la carretera
 ---
 Si has ido leyendo mi blog *diariodeunparkinsoniano*, habrás comprobado que soy un poco *friki*.
 

@@ -7,7 +7,7 @@ comments: true
 tags: [Relatos XIII] 
 keywords: [OverThinking,OverThink,De los pensamientos a los hechos]
 image: '/assets/images/2024/11/overthink.png'
-excerpt: Sobre pensar las cosas demasiado y montarte películas de futuro
+description: Sobre pensar las cosas demasiado y montarte películas de futuro
 ---
 Llevaba ya unos cuantos meses sin publicar nada, y eso que desde la última vez que lo hice no me han faltado oportunidades.
 

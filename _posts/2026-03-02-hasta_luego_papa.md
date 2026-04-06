@@ -7,7 +7,7 @@ comments: true
 tags: [Relatos XIV] 
 keywords: [Muerte, papá]
 imagex: '/assets/images/2025/09/vuelaalto.webp'
-excerpt: Carta a mi padre fallecido
+description: Carta a mi padre fallecido
 ---
 Querido papá:
 

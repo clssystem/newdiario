@@ -7,7 +7,7 @@ comments: true
 tags: [Relatos XIV] 
 keywords: [Tunos, Maleantes, Robo de cartera, Lentitud de movimientos]
 image: '/assets/images/2025/04/chorizo.png'
-excerpt: Me guindan la cartera comprando en un supermercado
+description: Me guindan la cartera comprando en un supermercado
 ---
 Esta entrada del blog no es más que una breve reflexión...
 

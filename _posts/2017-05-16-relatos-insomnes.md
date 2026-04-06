@@ -7,7 +7,7 @@ comments: true
 categories: [Sin categoría]
 tags: 'Relatos-I'
 keywords: [relatos,insomnio,sueño,pesadilla]
-excerpt: Primer relato escrito durante una de las noches de insomnio que provoca la Enfermedad de Parkinson
+description: Primer relato escrito durante una de las noches de insomnio que provoca la Enfermedad de Parkinson
 image: '/assets/images/2017/05/img_20170329_200904-011033.jpeg'
 ---
 <p style="text-align:justify;">Últimamente no duermo mucho, así que para matar el tiempo se me ocurren algunas reflexiones y relatos.</p>

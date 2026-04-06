@@ -7,7 +7,7 @@ comments: true
 tags: [Relatos XIV] 
 keywords: [Comenzar en la universidad, nueva vida]
 image: '/assets/images/2025/09/vuelaalto.webp'
-excerpt: Saliendo del nido familiar
+description: Saliendo del nido familiar
 ---
 Esta entrada del blog va dedicada a mi sobrina Nahia, que ya mismo empieza en la universidad, un poquito lejos del lugar en la que la ví nacer y crecer.  
 

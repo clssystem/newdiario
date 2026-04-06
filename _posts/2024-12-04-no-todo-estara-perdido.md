@@ -7,7 +7,7 @@ comments: true
 tags: [Relatos XIII] 
 keywords: [Música,Aprender Inglés,Fortaleza mental, Duo Lingo]
 image: '/assets/images/2024/12/no_todo_estara_perdido.jpg'
-excerpt: Intentando poner en práctica el tener la mente enfocada en otra cosa que no sea Parkinson
+description: Intentando poner en práctica el tener la mente enfocada en otra cosa que no sea Parkinson
 ---
 Continuamos para Bingo...
 

@@ -7,7 +7,7 @@ comments: true
 tags: [Relatos XIII] 
 keywords: [Juegos de mesa, Reunión familiar en Nochebuena, Parchís]
 image: '/assets/images/2024/12/jugando_al_parchis.png'
-excerpt: Post dedicado a un juego familiar en Nochebuena, en concreto al parchís
+description: Post dedicado a un juego familiar en Nochebuena, en concreto al parchís
 ---
 Quizás esta entrada en el blog para tí no signifique nada... o quizás sí.
 

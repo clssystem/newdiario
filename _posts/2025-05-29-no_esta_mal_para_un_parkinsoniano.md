@@ -7,7 +7,7 @@ comments: true
 tags: [Relatos XIV] 
 keywords: [Facultad de Ciencias de la Salud, UPNA, Medicina, ANAPAR]
 image: '/assets/images/2025/05/noestamal.jpg'
-excerpt: Dando una charla en la Facultad de Ciencias de la Salud de la Universidad Pública de Navarra
+description: Dando una charla en la Facultad de Ciencias de la Salud de la Universidad Pública de Navarra
 ---
 Hace unos días recibí una llamada telefónica.
 

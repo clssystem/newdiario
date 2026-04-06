@@ -7,7 +7,7 @@ comments: true
 tags: [Relatos XIII] 
 keywords: [Timo, Gas Natural]
 image: '/assets/images/2024/12/timo_gaseoso.jpg'
-excerpt: De cómo nos la quieren colar las empresas comercializadoras y distribuidoras de Gas Natural
+description: De cómo nos la quieren colar las empresas comercializadoras y distribuidoras de Gas Natural
 ---
 Pongo en antecedentes mi historia...
 

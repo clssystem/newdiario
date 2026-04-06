@@ -7,7 +7,7 @@ comments: true
 tags: [Relatos XIII] 
 keywords: [Demencia, El primer día del resto de tu vida,Centro de día, Edadismo]
 image: '/assets/images/2025/04/primerdia.jpg'
-excerpt: Reflexiones sobre el primer día del resto de tu vida
+description: Reflexiones sobre el primer día del resto de tu vida
 ---
 Hace mucho tiempo que no había escrito nada en este diario. 
 

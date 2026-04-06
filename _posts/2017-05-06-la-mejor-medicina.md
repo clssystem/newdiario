@@ -7,7 +7,7 @@ comments: true
 tags: 'Relatos-I'
 image: '/assets/images/2017/05/img_20170412_235311-01.jpeg'
 keywords: [neurólogo,ansiedad,amistad]
-excerpt: Cómo superar una crisis de ansiedad por la enfermedad de Parkinson con la amistad
+description: Cómo superar una crisis de ansiedad por la enfermedad de Parkinson con la amistad
 ---
 <p style="text-align:justify;">Hace tiempo que no escribo nada.</p>
 <p style="text-align:justify;">Durante este tiempo he visitado dos veces al médico. La primera vez me prescribieron un medicamento para que mis neuronas sanas generen más dopamina. Me lo tomé y me dio esperanza. La segunda vez de nuevo otro medicamento, esta vez para que los receptores nerviosos capten más de la misma. Lo digerí con escepticismo.</p>

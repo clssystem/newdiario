@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 keywords: [DBS for dummies,ECP para torpes,Deep Brain Stimulation,Estimulacion Cerebral Profunda,Terapias para la Enfermedad de Parkinson]
 image: '/assets/images/dummies.jpg'
-excerpt: Manual para torpes sobre DBS (Deep Brain Stimulation) o ECP (Estimulación Cerebral Profunda)
+description: Manual para torpes sobre DBS (Deep Brain Stimulation) o ECP (Estimulación Cerebral Profunda)
 sitemap: false
 seo:
  robots: [noindex,nofollow]

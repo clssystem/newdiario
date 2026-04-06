@@ -282,13 +282,13 @@ Puedes leer mis reflexiones, por supuesto totalmente subjetivas, en [diariodeunp
 
 En ella me implantaron dos electrodos, uno para el lado de mi cuerpo afectado (el derecho), y otro para el izquierdo (que no estaba tan afectado, pero que se implantó "por si acaso").
 
-Puedes leer cómo me sentí durante todo el proceso en la sección de Relatos X en [Entradas](/allposts), en los posts que van desde [Hoy puede ser un gran día](/post/2022/01/16/hoy-puede-ser-un-gran-dia) a [Diagrama de radiación](/post/2022/08/11/diagrama-de-radiacion)
+Puedes leer cómo me sentí durante todo el proceso en la sección de Relatos X en [Entradas](/allposts), en los posts que van desde [Hoy puede ser un gran día](/posts/hoy-puede-ser-un-gran-dia) a [Diagrama de radiación](/posts/diagrama-de-radiacion)
 
 ### Segunda intervención quirúrgica
 
 Como los resultados de la primera implantación fueron *regulinchi*, me sometí a una segunda intervención.
 
-Puedes leer como me sentí durante todo el proceso en la sección de Relatos X y XI en [Entradas](/allposts), en los posts que van desde [Un nuevo día de la marmota](/post/2023/02/02/un-nuevo-dia-de-la-marmota) a [Sólo queda esperar y ser paciente](/post/2023/02/19/solo-queda-esperar-y-ser-paciente)
+Puedes leer como me sentí durante todo el proceso en la sección de Relatos X y XI en [Entradas](/allposts), en los posts que van desde [Un nuevo día de la marmota](/posts/un-nuevo-dia-de-la-marmota) a [Sólo queda esperar y ser paciente](/posts/solo-queda-esperar-y-ser-paciente)
 
 ## Apéndice II: Opiniones de "intervenidos"
 

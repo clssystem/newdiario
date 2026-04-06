@@ -8,7 +8,7 @@ tags: [Relatos XIII]
 keywords: [Ahorita mismo,stress,jubilación,incapacidad permanente]
 image: '/assets/images/2024/03/ahorita.jpg'
 ---
-Han pasado unos cuantos meses desde la firma del finiquito de las vacaciones, como expliqué en el post de "[Todo cambia](/post/2023/12/12/cambia-todo-cambia)", y, por fin, hace apenas una semana, ha terminado todo.
+Han pasado unos cuantos meses desde la firma del finiquito de las vacaciones, como expliqué en el post de "[Todo cambia](/posts/cambia-todo-cambia)", y, por fin, hace apenas una semana, ha terminado todo.
 
 Trascurridos los dieciocho meses y un día de la particular condena que es la baja médica, empieza a hacerse cargo de tí la mutua, en exclusiva, pagándote el 75% de tu sueldo habitual, ya sin pagas extras de por medio.
 

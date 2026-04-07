@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-title: Acerca de
+title: About
 icon: fas fa-info-circle
 order: 75
 image:

@@ -4,8 +4,8 @@ title: Acerca de
 icon: fas fa-info-circle
 order: 75
 image:
-  path: /assets/images/bg-relatos.jpg
-  alt: image alternative text
+  path: /assets/images/about.jpg
+  alt: Antonio Liberal
 ---
 
 Me llamo Antonio Liberal, y de profesión, aporreo teclas desarrollando software

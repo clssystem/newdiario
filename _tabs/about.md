@@ -2,7 +2,7 @@
 # the default layout is 'page'
 title: About
 icon: fas fa-info-circle
-order: 75
+order: 90
 image:
   path: /assets/images/about.jpg
   alt: Antonio Liberal

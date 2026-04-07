@@ -13,5 +13,7 @@ En unos meses se cumplirán diez años del diagnóstico de mi enfermedad y tambi
 
 ¡Ya es hora de darle un lavado de cara a esta web!
 
-Espero que te guste el renovado y modernizado estilo.
+Espero que te guste el nuavo estilo.
 
+> Ahora puedes comentar cada post gracias a [giscus](https://github.com/giscus/giscus)
+{: .prompt-info }

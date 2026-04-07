@@ -9,7 +9,7 @@ keywords: [Dia mundial parkinson 2026, 11 de abril]
 imagex: '/assets/images/2025/09/vuelaalto.webp'
 description: Carta al director para el día mundial del párkinson, 11 de abril del 2026
 ---
-Este es el lema del año 2026 para conmemorar el día mundial del párkinson, que se celebrará el domingo once de abril. Por mi parte –un parkinsoniano al que le queda muy poco para cumplir los dos lustros conviviendo con la enfermedad, desde que celebré mi cuarenta y cuatro cumpleaños–, creo que está *muy bien tirada*, aunque yo la habría completado diciendo “No soy solo párkinson”.
+Este es el lema del año 2026 para conmemorar el día mundial del párkinson, que se celebrará el sábado once de abril. Por mi parte –un parkinsoniano al que le queda muy poco para cumplir los dos lustros conviviendo con la enfermedad, desde que celebré mi cuarenta y cuatro cumpleaños–, creo que está *muy bien tirada*, aunque yo la habría completado diciendo “No soy solo párkinson”.
 
 Si te pones a pensar en esta frase, y le das una vuelta en esa centrifugadora que tienes por cabeza, puedes comprender lo que significa. Está llena de *empoderamiento y resiliencia*, palabras tan de moda en estos tiempos. Es algo así como la frase "el hábito no hace al monje", pero en versión 2.0, parkinsoniana y con matices; una forma de romper esa barrera que existe entre los no parkinsonianos y los que *sufrimos* la enfermedad en el día a día, tanto enfermos como cuidadores.
 

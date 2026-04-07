@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DBS para dummies"
+toc: true
 date: 2024-08-20 06:00
 author: diariodeunparkinsoniano
 comments: true
@@ -11,7 +12,6 @@ sitemap: false
 seo:
  robots: [noindex,nofollow]
 ---
-
 **TABLA DE CONTENIDOS**
 
 - [Introducción](#introducción)
@@ -39,6 +39,7 @@ seo:
   - [Santiago Espelosín](#santiago-espelosín)
 - [Apéndice III: Referencias](#apéndice-iii-referencias)
 - [Apéndice IV: Agradecimientos](#apéndice-iv-agradecimientos)
+
 
 ## Introducción
 

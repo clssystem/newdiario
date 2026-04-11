@@ -5,7 +5,7 @@ date: 2026-04-06 06:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XIV] 
-image: '/assets/img/favicons/favicon.svg' 
+image: '/assets/images/2026/04/lavado.jpg' 
 description: El mismo blog pero con un estilo renovado
 pinned: false
 ---

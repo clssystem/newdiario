@@ -6,7 +6,9 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XIV] 
 description: Carta al director por el día mundial del párkinson, 11 de abril del 2026
-image: '/assets/images/2026/04/nosoyparkinson.jpeg' 
+image: 
+  path: '/assets/images/2026/04/nosoyparkinson.jpeg' 
+  alt: 'Alguno de los síntomas que sufre un parkinsoniano'
 
 ---
 Este es el lema del año 2026 para conmemorar el **Día Mundial del Párkinson**, que se celebra cada once de abril. Por mi parte —como persona con párkinson a la que le queda muy poco para cumplir diez años conviviendo con la enfermedad, desde que celebré mi cuarenta y cuatro cumpleaños—, creo que está *muy bien tirado*. Aunque yo lo habría completado diciendo: **“No soy solo párkinson”**.

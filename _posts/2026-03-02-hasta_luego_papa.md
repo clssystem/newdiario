@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XIV] 
 keywords: [Muerte, papá]
-imagex: '/assets/images/2025/09/vuelaalto.webp'
+image: '/assets/images/2026/02/hastaluegopapa.jpeg'
 description: Carta a mi padre fallecido
 ---
 Querido papá:

@@ -1,6 +1,5 @@
 # The Site Configuration
-feed:
- post_limit: 2000
+feed_limit: 20000
 # Import the theme
 theme: jekyll-theme-chirpy
 
@@ -66,7 +65,7 @@ google_analytics:
     
 analytics:
   google:
-    id: # G-NP2LK2K9BP # fill in your Google Analytics ID
+    id: # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
